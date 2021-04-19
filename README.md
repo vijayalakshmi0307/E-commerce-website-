@@ -1,1 +1,1 @@
-# ishtore-specification
+#E-commerce website code
